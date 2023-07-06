@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CentFirst", "CentFirst\CentFirst.csproj", "{8736AE6A-848B-4192-9764-85BCF55728FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentRazor", "CentRazor\CentRazor.csproj", "{F7B242AC-2B6C-43FE-9312-9F2A629388B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8736AE6A-848B-4192-9764-85BCF55728FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8736AE6A-848B-4192-9764-85BCF55728FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8736AE6A-848B-4192-9764-85BCF55728FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8736AE6A-848B-4192-9764-85BCF55728FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B242AC-2B6C-43FE-9312-9F2A629388B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B242AC-2B6C-43FE-9312-9F2A629388B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B242AC-2B6C-43FE-9312-9F2A629388B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B242AC-2B6C-43FE-9312-9F2A629388B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEC29080-979A-457C-9223-4AFA2C161E5B}
+	EndGlobalSection
+EndGlobal
