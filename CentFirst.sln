@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CentFirst", "CentFirst\CentFirst.csproj", "{8736AE6A-848B-4192-9764-85BCF55728FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentRazor", "CentRazor\CentRazor.csproj", "{F7B242AC-2B6C-43FE-9312-9F2A629388B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CentRazor", "CentRazor\CentRazor.csproj", "{F7B242AC-2B6C-43FE-9312-9F2A629388B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
